@@ -1,0 +1,45 @@
+Facade Prompt Studio
+
+Facade Prompt Studio is a practical ai lab workspace for product manager teams who need a working tool, reference pages, exportable notes, and SEO-ready guidance in one static site.
+
+Key sections:
+- https://facade.ai-architect.com/
+- https://facade.ai-architect.com/tool/
+- https://facade.ai-architect.com/workspace/
+- https://facade.ai-architect.com/reports/
+- https://facade.ai-architect.com/guides/
+- https://facade.ai-architect.com/library/
+- https://facade.ai-architect.com/templates/
+- https://facade.ai-architect.com/compare/
+- https://facade.ai-architect.com/checklists/
+- https://facade.ai-architect.com/integrations/
+- https://facade.ai-architect.com/settings/
+- https://facade.ai-architect.com/plans/
+- https://facade.ai-architect.com/faq/
+- https://facade.ai-architect.com/privacy/
+- https://facade.ai-architect.com/about/
+- https://facade.ai-architect.com/guides/estimate-token-spend-1/
+- https://facade.ai-architect.com/guides/draft-a-prompt-system-2/
+- https://facade.ai-architect.com/guides/compare-model-routes-3/
+- https://facade.ai-architect.com/guides/plan-batch-capacity-4/
+- https://facade.ai-architect.com/guides/audit-image-generation-costs-5/
+- https://facade.ai-architect.com/guides/export-a-workflow-brief-6/
+- https://facade.ai-architect.com/guides/estimate-token-spend-7/
+- https://facade.ai-architect.com/guides/draft-a-prompt-system-8/
+- https://facade.ai-architect.com/guides/compare-model-routes-9/
+- https://facade.ai-architect.com/guides/plan-batch-capacity-10/
+- https://facade.ai-architect.com/guides/audit-image-generation-costs-11/
+- https://facade.ai-architect.com/guides/export-a-workflow-brief-12/
+- https://facade.ai-architect.com/guides/estimate-token-spend-13/
+- https://facade.ai-architect.com/guides/draft-a-prompt-system-14/
+- https://facade.ai-architect.com/guides/compare-model-routes-15/
+- https://facade.ai-architect.com/guides/plan-batch-capacity-16/
+- https://facade.ai-architect.com/guides/audit-image-generation-costs-17/
+- https://facade.ai-architect.com/guides/export-a-workflow-brief-18/
+- https://facade.ai-architect.com/guides/estimate-token-spend-19/
+- https://facade.ai-architect.com/guides/draft-a-prompt-system-20/
+- https://facade.ai-architect.com/guides/compare-model-routes-21/
+- https://facade.ai-architect.com/guides/plan-batch-capacity-22/
+- https://facade.ai-architect.com/guides/audit-image-generation-costs-23/
+- https://facade.ai-architect.com/guides/export-a-workflow-brief-24/
+- https://facade.ai-architect.com/guides/estimate-token-spend-25/
